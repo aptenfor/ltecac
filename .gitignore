@@ -1,0 +1,5 @@
+ltecac.exe
+*.o
+ltecac.layout
+*.exe
+Makefile.win
