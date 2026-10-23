@@ -1,4 +1,5 @@
   .global main
 main:
   mov $1, %rax
-ret
+  add $2, %rax
+  ret
